@@ -1,6 +1,6 @@
 import './App.css';
 import MainTheme from './components/MainTheme/MainTheme'
-import OurTeam from './pages/OurTeam'
+import OurTeam from './components/Pages/OurTeam'
 
 function App() {
   return (

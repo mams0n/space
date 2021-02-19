@@ -1,12 +1,12 @@
 import React, { useEffect } from "react";
 import "./OurTeam.css";
-import Background from "../components/Background/Background";
-import Avatar_1 from "../assets/avatar1.jpg";
-import Avatar_2 from "../assets/avatar2.jpg";
-import Avatar_3 from "../assets/avatar3.jpg";
-import Avatar_4 from "../assets/avatar4.jpg";
-import Avatar_5 from "../assets/avatar5.jpg";
-import Avatar_6 from "../assets/avatar6.jpg";
+import Background from "../Background/Background";
+import Avatar_1 from "../../assets/avatar1.jpg";
+import Avatar_2 from "../../assets/avatar2.jpg";
+import Avatar_3 from "../../assets/avatar3.jpg";
+import Avatar_4 from "../../assets/avatar4.jpg";
+import Avatar_5 from "../../assets/avatar5.jpg";
+import Avatar_6 from "../../assets/avatar6.jpg";
 
 const OurTeam = () => {
   useEffect(() => {

@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import "./MainTheme.css";
 import Logo from "../../assets/logo.png";
-import Services from "../Services/Services";
-import OurTeam from "../../pages/OurTeam";
+import Services from "../Pages/Services";
+import OurTeam from "../Pages/OurTeam";
 
 const MainTheme = () => {
   let setTheme;
