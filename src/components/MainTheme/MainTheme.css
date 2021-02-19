@@ -4,7 +4,7 @@
   height: 100vh;
   background-color: #2d3436;
   background-image: linear-gradient(270deg, #2d3436 -40%, #000000 84%);
-  min-width: 1871px;
+  min-width: 1400px;
   overflow: hidden;
 }
 
@@ -30,8 +30,8 @@
 }
 
 .close_circle {
-  width: 150px;
-  height: 150px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
   background-color: transparent;
   border: 2px solid #5e6060;
@@ -50,7 +50,7 @@
   border-left: 2px solid #fff;
   position: absolute;
   transform: rotate(45deg);
-  top: 115px;
+  top: 80px;
 }
 
 .close_x:before {
@@ -59,5 +59,5 @@
   border-left: 2px solid #fff;
   position: absolute;
   transform: rotate(-45deg);
-  top: 115px;
+  top: 80px;
 }
