@@ -92,16 +92,6 @@
   top: 530px;
 }
 
-/* .random_planet9 {
-  position: absolute;
-  width: 4px;
-  height: 4px;
-  border-radius: 50%;
-  border: 1px solid #8f8f8f;
-  left: 620px;
-  top: 82px;
-} */
-
 .random_planet10 {
   position: absolute;
   width: 3px;
@@ -181,6 +171,6 @@
   height: 17px;
   background-color: #f3b3c9;
   border-radius: 50%;
-  left: 720px;
-  top: 15px;
+  left: 750px;
+  top: -10px;
 }
