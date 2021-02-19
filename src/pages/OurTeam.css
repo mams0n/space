@@ -1,0 +1,166 @@
+.team_middle-orbit {
+  position: absolute;
+  width: 440px;
+  height: 440px;
+  border: 1px solid #484949;
+  border-radius: 50%;
+  left: 160px;
+  right: 160px;
+  top: 160px;
+  bottom: 160px;
+  margin: auto;
+  display: flex;
+}
+
+.team-outer-orbit {
+  position: absolute;
+  width: 818px;
+  height: 810px;
+  border: 1px solid #484949;
+  border-radius: 50%;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.avatar-1 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  left: 10px;
+  top: 120px;
+}
+
+.avatar-2 {
+  position: absolute;
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  left: 10px;
+  top: 580px;
+}
+
+.avatar-3 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  left: 390px;
+  top: 675px;
+}
+
+.avatar-4 {
+  position: absolute;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  left: 520px;
+  top: -30px;
+}
+
+.avatar-5 {
+  position: absolute;
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  left: 760px;
+  top: 480px;
+}
+
+.avatar-6 {
+  position: absolute;
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  left: 620px;
+  top: 255px;
+  box-shadow: 50px 50px 50px -22px #000000;
+}
+
+.profile-describtion {
+  position: absolute;
+  left: 760px;
+  top: 285px;
+  /* background-color: red; */
+  width: 340px;
+  height: 50px;
+}
+
+.profile-name {
+  color: #fff;
+  position: absolute;
+  left: 0;
+  letter-spacing: 5px;
+}
+
+.profile-position {
+  position: absolute;
+  left: 0;
+  top: 27px;
+  color: rgb(214, 214, 214);
+  letter-spacing: 4px;
+  font-size: 13px;
+}
+
+.middle_orbit_team {
+  align-self: center;
+  color: #fff;
+  font-size: 28px;
+  position: absolute;
+  letter-spacing: 5px;
+  left: 0;
+  right: 0;
+}
+
+.middle_orbit_scroll {
+  align-self: center;
+  color: #fff;
+  font-size: 15px;
+  position: absolute;
+  top: 58%;
+  left: 0;
+  right: 0;
+  letter-spacing: 4px;
+}
+
+.team-outer-orbit-fake {
+  position: absolute;
+  width: 818px;
+  height: 810px;
+  border: 1px solid #484949;
+  border-radius: 50%;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.team-outer-orbit-fake-2 {
+  position: absolute;
+  width: 818px;
+  height: 810px;
+  border: 1px solid #484949;
+  border-radius: 50%;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.team-outer-orbit-fake-3 {
+  position: absolute;
+  width: 440px;
+  height: 440px;
+  border: 1px solid #484949;
+  border-radius: 50%;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
